@@ -25,23 +25,23 @@ Colegio Santa Catalina Laboure
 - Jossue Emanuel Fuentes 
 
 # Indice 
- Portada
- Anteportada
- Índice
- Objetivos
- Documentación
+ -Portada
+ -Anteportada
+ -Índice
+ -Objetivos
+ -Documentación
  				
-Index
-css
-css-movil.css
-css-ipad.css
-css-laptop.css
-css-compu.css
-img
-js
+-Index
+-css
+-css-movil.css
+-css-ipad.css
+-css-laptop.css
+-css-compu.css
+-img
+-js
 
-Descripción del proyecto
- Objetivos futuros
+-Descripción del proyecto
+-Objetivos futuros
  
 
 ------------

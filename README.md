@@ -31,14 +31,14 @@ Colegio Santa Catalina Laboure
  Objetivos
  Documentación
  				
-				Index
-				css
-          	 css-movil.css
-	   		css-ipad.css
-	   		css-laptop.css
-	  		 css-compu.css
-				img
-				js
+	Index
+	css
+        css-movil.css
+	css-ipad.css
+	css-laptop.css
+	css-compu.css
+	img
+	js
 Descripción del proyecto
  Objetivos futuros
  
